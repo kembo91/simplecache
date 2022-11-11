@@ -1,4 +1,4 @@
-package smiplecache
+package simplecache
 
 import (
 	"context"

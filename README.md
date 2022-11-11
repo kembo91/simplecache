@@ -19,5 +19,5 @@ if ok {
 ```
 ### How to install
 ```
-go get github.com/kembo91/simplecache
+go get -v -u github.com/kembo91/simplecache
 ```

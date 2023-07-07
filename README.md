@@ -17,7 +17,3 @@ if ok {
     fmt.Println(got) // 100
 }
 ```
-### How to install
-```
-go get -v -u github.com/kembo91/simplecache
-```
